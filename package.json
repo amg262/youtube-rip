@@ -1,0 +1,19 @@
+{
+  "name": "youtube-rip",
+  "version": "1.0.0",
+  "description": "Python, PHP, JavaScript, Bootstrap, NPM, Composer, youtube-dl.exe & MySQL based web application for dynamically and automatically reading and ripping YouTube videos based on channel input, URL, etc. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amg262/youtube-rip.git"
+  },
+  "author": "amg262",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amg262/youtube-rip/issues"
+  },
+  "homepage": "https://github.com/amg262/youtube-rip#readme"
+}
